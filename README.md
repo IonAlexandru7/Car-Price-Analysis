@@ -31,3 +31,10 @@ The goal of this project was to transform messy data into a clean and structured
 
 ## Project File
 - `car_price_analysis.xlsx` → contains raw data, cleaned data, pivot tables, and charts
+## Project Screenshots
+
+### Average Selling Price by Fuel Type
+![Average Selling Price by Fuel Type](pivot-fuel-type.png)
+
+### Clean Data Preview
+![Clean Data Preview](clean-data-preview.png)
